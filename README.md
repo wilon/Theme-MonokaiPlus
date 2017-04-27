@@ -1,35 +1,41 @@
-# Monokai Theme
+# Theme Monokai+
 
-A Monokai theme for Sublime Text 3
+A Monokai+ theme for Sublime Text 3
 
 
 ## Installation
 
-### Package Control
-If you are using ```Package Control``` you just have to search it and install it. It's listed as ```Monokai Theme```.
+#### Package Control
+If you are using ```Package Control``` you just have to search it and install it. It's listed as ```Theme - Monokai+ ```.
 
-### Git Install
+#### Git Install
 You can install the theme and keep it updated by cloning the repo into your `Packages` directory.
 
 To get to your packages directory, go into SublimeText and click on `Preferences -> Browse Packages...`.
 
 Now open up a terminal and go into packages folder you opened and run:
 
-`git clone https://github.com/joshuahiggins/sublime-text-monokai "Monokai Theme"`
+`git clone https://github.com/wilon/Theme-MonokaiPlus.git "Theme - Monokai+ "`
 
-### Manual Install
+#### Manual Install
 * Download the [Package](https://github.com/joshuahiggins/sublime-text-monokai/archive/master.zip)
-* Unzip the files and rename the folder to `Monokai Theme`
+* Unzip the files and rename the folder to `Theme - Monokai+`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory.
 
 ### Activate
 Click on `Preferences -> Settings - User` and add the next line:
 ```
-"theme": "Monokai.sublime-theme"
+    "color_scheme": "Packages/Theme - Monokai+/Monokai+.tmTheme",
+    "theme": "Monokai+.sublime-theme"
 ```
 
 Restart Sublime Text after this.
 
 ## Thanks
-This theme is a installable package version of [umpirsky's Gist](https://gist.github.com/umpirsky/5842174).
+
+Icon [soda-theme](https://github.com/buymeasoda/soda-theme)
+
+Theme [sublime-text-monokai](https://github.com/joshuahiggins/sublime-text-monokai)
+
+Json support [MonokaiJsonPlus](https://github.com/ColibriApps/MonokaiJsonPlus)

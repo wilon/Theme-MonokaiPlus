@@ -941,61 +941,61 @@
 
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - MonokaiPlus/icons/find_regex.png",
+        "layer0.texture": "Theme - Monokai+/icons/find_regex.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - MonokaiPlus/icons/find_case.png",
+        "layer0.texture": "Theme - Monokai+/icons/find_case.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - MonokaiPlus/icons/find_highlight.png",
+        "layer0.texture": "Theme - Monokai+/icons/find_highlight.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - MonokaiPlus/icons/find_inselection.png",
+        "layer0.texture": "Theme - Monokai+/icons/find_inselection.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
         "class": "icon_reverse",
-        "layer0.texture": "Theme - MonokaiPlus/icons/find_reverse.png",
+        "layer0.texture": "Theme - Monokai+/icons/find_reverse.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - MonokaiPlus/icons/find_wholeword.png",
+        "layer0.texture": "Theme - Monokai+/icons/find_wholeword.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - MonokaiPlus/icons/find_wrap.png",
+        "layer0.texture": "Theme - Monokai+/icons/find_wrap.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - MonokaiPlus/icons/replace_preserve_case.png",
+        "layer0.texture": "Theme - Monokai+/icons/replace_preserve_case.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - MonokaiPlus/icons/context.png",
+        "layer0.texture": "Theme - Monokai+/icons/context.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - MonokaiPlus/icons/use_buffer.png",
+        "layer0.texture": "Theme - Monokai+/icons/use_buffer.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
@@ -1009,7 +1009,7 @@
     },
     {
         "class": "icon_folder",
-        "layer0.texture": "Theme - MonokaiPlus/icons/folder.png",
+        "layer0.texture": "Theme - Monokai+/icons/folder.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
@@ -1019,7 +1019,7 @@
         [
             { "class": "tree_row", "attributes": ["expanded"] }
         ],
-        "layer0.texture": "Theme - MonokaiPlus/icons/folder_open.png",
+        "layer0.texture": "Theme - Monokai+/icons/folder_open.png",
     },
     {
         "class": "icon_folder_loading",
@@ -1027,14 +1027,14 @@
         {
             "keyframes":
             [
-                "Theme - MonokaiPlus/icons/spinner7.png",
-                "Theme - MonokaiPlus/icons/spinner6.png",
-                "Theme - MonokaiPlus/icons/spinner5.png",
-                "Theme - MonokaiPlus/icons/spinner4.png",
-                "Theme - MonokaiPlus/icons/spinner3.png",
-                "Theme - MonokaiPlus/icons/spinner2.png",
-                "Theme - MonokaiPlus/icons/spinner1.png",
-                "Theme - MonokaiPlus/icons/spinner.png",
+                "Theme - Monokai+/icons/spinner7.png",
+                "Theme - Monokai+/icons/spinner6.png",
+                "Theme - Monokai+/icons/spinner5.png",
+                "Theme - Monokai+/icons/spinner4.png",
+                "Theme - Monokai+/icons/spinner3.png",
+                "Theme - Monokai+/icons/spinner2.png",
+                "Theme - Monokai+/icons/spinner1.png",
+                "Theme - Monokai+/icons/spinner.png",
             ],
             "loop": true,
             "frame_time": 0.075,
@@ -1045,7 +1045,7 @@
     },
     {
         "class": "icon_folder_dup",
-        "layer0.texture": "Theme - MonokaiPlus/icons/folder_dup.png",
+        "layer0.texture": "Theme - Monokai+/icons/folder_dup.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
