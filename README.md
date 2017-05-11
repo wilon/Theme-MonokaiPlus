@@ -2,7 +2,7 @@
 
 A Monokai+ theme for Sublime Text 3
 
-![image](https://dn-coding-net-production-pp.qbox.me/4f7096d5-1d3d-4bd0-90a2-add688181b2f.png)
+![image](https://cloud.githubusercontent.com/assets/7512755/25938195/051fbad2-3661-11e7-8fda-5bf3c91fe588.png)
 
 ## Installation
 
