@@ -16,7 +16,7 @@ To get to your packages directory, go into SublimeText and click on `Preferences
 
 Now open up a terminal and go into packages folder you opened and run:
 
-`git clone https://github.com/wilon/Theme-MonokaiPlus.git "Theme - Monokai+ "`
+`git clone https://github.com/wilon/Theme-MonokaiPlus.git "Theme - Monokai+"`
 
 #### Manual Install
 * Download the [Package](https://github.com/joshuahiggins/sublime-text-monokai/archive/master.zip)
@@ -27,8 +27,8 @@ Now open up a terminal and go into packages folder you opened and run:
 ### Activate
 Click on `Preferences -> Settings - User` and add the next line:
 ```
-    "color_scheme": "Packages/Theme - Monokai+/Monokai+.tmTheme",
-    "theme": "Monokai+.sublime-theme"
+"color_scheme": "Packages/Theme - Monokai+/Monokai+.tmTheme",
+"theme": "Monokai+.sublime-theme"
 ```
 
 Restart Sublime Text after this.
