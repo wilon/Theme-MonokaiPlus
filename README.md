@@ -30,6 +30,12 @@ Click on `Preferences -> Settings - User` and add the next line:
 "color_scheme": "Packages/Theme - Monokai+/Monokai+.tmTheme",
 "theme": "Monokai+.sublime-theme"
 ```
+Or
+```
+"color_scheme": "Packages/Theme - Monokai+/Monokai+(Light).tmTheme",
+"theme": "Monokai+(Light).sublime-theme"
+```
+
 
 Restart Sublime Text after this.
 
