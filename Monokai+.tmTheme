@@ -18,15 +18,15 @@
                 <key>invisibles</key>
                 <string>#3B3A32</string>
                 <key>lineHighlight</key>
-                <string>#3E3D32</string>
+                <string>#7777</string>
                 <key>selection</key>
-                <string>#a5a35d</string>
+                <string>#c5c55d</string>
                 <key>inactiveSelection</key>
-                <string>#aaa</string>
+                <string>#a5a55d</string>
                 <key>inactiveSelectionForeground</key>
                 <string>#222222</string>
                 <key>findHighlight</key>
-                <string>#aaa</string>
+                <string>#a5a55d</string>
                 <key>findHighlightForeground</key>
                 <string>#000000</string>
                 <key>activeGuide</key>
