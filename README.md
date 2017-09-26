@@ -19,7 +19,7 @@ Now open up a terminal and go into packages folder you opened and run:
 `git clone https://github.com/wilon/Theme-MonokaiPlus.git "Theme - Monokai+"`
 
 #### Manual Install
-* Download the [Package](https://github.com/joshuahiggins/sublime-text-monokai/archive/master.zip)
+* Download the [Package](https://github.com/wilon/Theme-MonokaiPlus/archive/master.zip)
 * Unzip the files and rename the folder to `Theme - Monokai+`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory.
