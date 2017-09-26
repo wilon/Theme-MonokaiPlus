@@ -28,14 +28,14 @@
     {
         "class": "tree_row",
         "attributes": ["selectable", "hover"],
-        "layer0.texture": "Theme - Monokai+/row_highlight_dark.png",
+        "layer0.texture": "Theme - Monokai+/icons/row_highlight_dark.png",
         "layer0.opacity": 0.3,
     },
     {
         "class": "tree_row",
         "attributes": ["selected"],
         // 右侧选中条
-        "layer0.texture": "Theme - Monokai+/row_highlight_dark.png",
+        "layer0.texture": "Theme - Monokai+/icons/row_highlight_dark.png",
         "layer0.opacity": 0.8
     },
     {
@@ -422,14 +422,14 @@
     },
     {
         "class": "mini_quick_panel_row",
-        "layer0.texture": "Theme - Monokai+/panel_row.png",
+        "layer0.texture": "Theme - Monokai+/icons/panel_row.png",
         "layer0.inner_margin": [2, 2, 2, 2],
         "layer0.opacity": 1.0
     },
     {
         "class": "mini_quick_panel_row",
         "attributes": ["selected"],
-        "layer0.texture": "Theme - Monokai+/panel_row_selected.png",
+        "layer0.texture": "Theme - Monokai+/icons/panel_row_selected.png",
         "layer0.opacity": 1.0
     },
     {
@@ -607,7 +607,7 @@
     {
         "class": "panel_control",
         "layer0.tint": [199, 203, 209],
-        "layer0.texture": "Theme - Monokai+/status_bar.png",
+        "layer0.texture": "Theme - Monokai+/icons/status_bar.png",
         "layer0.opacity": 1.0,
         "content_margin": 2
     },
@@ -1040,7 +1040,7 @@
     // Status Bar
     {
         "class": "status_bar",    // 底部状态栏
-        "layer0.texture": "Theme - Monokai+/status_bar.png",
+        "layer0.texture": "Theme - Monokai+/icons/status_bar.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [2, 2],
         "content_margin": [6, 2, 4, 0]
