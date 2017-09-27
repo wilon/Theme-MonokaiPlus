@@ -1,6 +1,6 @@
 # Theme Monokai+
 
-A Monokai+ theme for Sublime Text 3
+A Monokai+ theme for Sublime Text 3. https://packagecontrol.io/packages/Theme%20-%20Monokai%2B
 
 ![image](https://cloud.githubusercontent.com/assets/7512755/25938195/051fbad2-3661-11e7-8fda-5bf3c91fe588.png)
 
