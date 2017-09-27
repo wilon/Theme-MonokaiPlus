@@ -415,7 +415,7 @@
     },
     {
         "class": "quick_panel",
-        "row_padding": [5, 1],
+        "row_padding": [6, 3],
         "layer0.tint": [25, 25, 25],
         "layer0.opacity": 1.0,
         "dark_content": false
@@ -444,11 +444,12 @@
         "layer0.opacity": 1.0
     },
     {
+        // Ex. project manager
         "class": "quick_panel_label",
-        "fg": [200, 200, 200, 255],
-        "match_fg": [225, 225, 225, 255],
-        "selected_fg": [200, 200, 200, 255],
-        "selected_match_fg": [255, 255, 255, 255]
+        "fg": [220, 220, 220, 255],    // list text Title all
+        "match_fg": [255, 255, 255, 255],    // list text Title fetch
+        "selected_fg": [255, 255, 255, 255],    // select text Title all
+        "selected_match_fg": [255, 255, 255, 255]    // select text Title fetch
     },
     {
         "class": "quick_panel_label",
@@ -457,10 +458,10 @@
     },
     {
         "class": "quick_panel_path_label",
-        "fg": [255, 255, 255, 100],
-        "match_fg": [255, 255, 255, 255],
-        "selected_fg": [55, 55, 55, 100],
-        "selected_match_fg": [55, 55, 55, 255]
+        "fg": [200, 200, 200, 100],
+        "match_fg": [233, 233, 233, 233],
+        "selected_fg": [233, 233, 233, 100],
+        "selected_match_fg": [233, 233, 233, 233],
     },
 
     // Views
