@@ -33,7 +33,6 @@ Click on `Preferences -> Settings - User` and add the next line:
 Or
 ```
 "color_scheme": "Packages/Theme - Monokai+/Monokai+(Light).tmTheme",
-"theme": "Monokai+(Light).sublime-theme"
 ```
 Version >=  3143, Recommend the adaptive theme.
 
