@@ -35,6 +35,11 @@ Or
 "color_scheme": "Packages/Theme - Monokai+/Monokai+(Light).tmTheme",
 "theme": "Monokai+(Light).sublime-theme"
 ```
+Version >=  3143, Recommend the adaptive theme.
+
+```
+	"theme": "Adaptive.sublime-theme",
+```
 
 
 Restart Sublime Text after this.
