@@ -37,7 +37,7 @@ Or
 Version >=  3143, Recommend the adaptive theme.
 
 ```
-	"theme": "Adaptive.sublime-theme",
+"theme": "Adaptive.sublime-theme",
 ```
 
 
